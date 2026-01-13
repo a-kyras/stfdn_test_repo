@@ -10,3 +10,8 @@ events for commits instead of the polling.
 
 # 2026.01.12T23:06:00
 Previous attempt did not work due to the incorrect subscriptions. This is redeployed app with subscription for pushes to repos.
+
+# 2026.01.13T10:33:00
+Sanity check if the setup works still.
+-> Haha. This line was amended and force pushed (maybe).
+-> And so was this one.
